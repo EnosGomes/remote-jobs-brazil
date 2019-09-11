@@ -92,6 +92,7 @@ TecSinapse | http://www.tecsinapse.com.br
 TurboSys | http://turbosys.com.br/
 Velociti | http://www.velociti.com.br/
 Vimbo Tecnologia LTDA | https://vimbo.com.br/
+Vizir | http://https://vizir.com.br/
 Wiki Consultoria | https://wikiconsultoria.com.br/
 VML Brasil | https://www.vml.com/brazil/
 YACOWS | http://yacows.com.br/
